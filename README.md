@@ -2,13 +2,13 @@
 
 KYC Analysis to Improve Client Insights in Telco Provider Company
 
-The project undertaken during my 4th sprint, entitled "Statistical Data Analysis."
+The project assigned to me during the fourth sprint involves Statistical Data Analysis.
 
-Within this sprint, I engaged in a deep exploration of probability theory, mastering widely-used distributions, and implementing statistical methodologies in Python. My studies also encompassed areas such as sampling, determining statistical significance, and recognizing and managing anomalies.
+Within this sprint, I engaged in a deep exploration of probability theory, mastering widely-used distributions, and implementing statistical methodologies in Python. My studies also encompassed areas such as sampling, determining statistical significance, recognize and managing anomalies.
 
 # **Project Insight**
 
-In my capacity as an analyst at Megaline Operator, I was assigned to conduct a preliminary examination of the company's prepaid packages. The objective was to scrutinize customer behavior to determine which prepaid package has more profitable, thereby offering a foundation upon which the marketing department could establish their advertising budget.
+As an analyst at Megaline Operator, I was assigned to conduct a preliminary examination of the company's prepaid packages. The objective was to analyze customer behavior to determine which prepaid package has more profitable, thereby offering a foundation upon which the marketing department could establish their advertising budget.
 
 Having observed and visually presented the data, I arrived at several notable conclusions:
 
@@ -20,4 +20,4 @@ Having observed and visually presented the data, I arrived at several notable co
 
 With these insights in mind, the marketing team might consider the following recommendations:
 
-The marketing division should direct its advertising budget towards promoting the Ultimate plan. Despite the Surf plan's lower cost and popularity in NY-NJ and other regions, the Ultimate plan yields higher revenue when evaluated on total earnings. Moreover, the growing number of Surf plan users each month implies that it doesn't necessitate as much promotional focus as the Ultimate plan. The marketing team could also considered by introducing incentives or promotions to encourage customers to switch to the Ultimate plan, thereby driving further revenue growth.
+The marketing division should direct its advertising budget towards promoting the Ultimate plan. Despite the Surf plan's lower cost and popularity in NY-NJ and other regions, the Ultimate plan yields higher revenue when evaluated on total earnings. Moreover, the growing number of Surf plan users each month implies that it doesn't require as much promotional focus as the Ultimate plan. The marketing team could also considered by introducing incentives or promotions to encourage customers to switch to the Ultimate plan, thereby driving further revenue growth.
